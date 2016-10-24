@@ -1,5 +1,5 @@
 {
-  "name": "mm2",
+  "name": "MedicosGuru",
   "app_id": "",
   "gulpStartupTasks": [
     "build",
